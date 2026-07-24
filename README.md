@@ -33,4 +33,4 @@ Prioritize outreach to inactive, single-product customers in Germany — particu
 Power BI · Power Query · DAX
 
 ---
-📌 Part of my **Wisdom Analytics** portfolio — connect with me on [LinkedIn](https://www.linkedin.com/in/chidera-okpala-22417730a/) or [X](https://x.com/PrimeW1sdom).
+## 📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/chidera-okpala-22417730a/) or [X](https://x.com/PrimeW1sdom).
